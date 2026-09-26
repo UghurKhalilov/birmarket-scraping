@@ -1,0 +1,13 @@
+selenium
+webdriver-manager
+requests
+pandas
+beautifulsoup4
+lxml
+jupyter
+ipykernel
+numpy
+matplotlib
+seaborn
+scipy
+scikit-learn
